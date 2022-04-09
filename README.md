@@ -2,5 +2,6 @@
  
 <!--
 
--📚 I'm currently studying Computing & Security Technology at Drexel University. I'm interested in the Cloud, Security, and DevOps!
+- 📚 I'm currently studying Computing & Security Technology at Drexel University. I'm interested in the Cloud, Security, and DevOps!
+
 -->
